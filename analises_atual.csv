@@ -1,0 +1,28 @@
+﻿timestamp_analise,timestamp_sinal,matchup_key,lutador_a,lutador_b,lado_escolhido,probabilidade,ev,odd_a,odd_b,odd_escolhida,classificacao,casa,fonte_odd,modelo_fake,analise_texto
+2025-10-31T15:26:59,2025-10-31T15:26:54,ISLAM MAKHACHEV x ARMAN TSARUKYAN,Islam Makhachev,Arman Tsarukyan,A,50.0,-0.05,1.9,1.9,1.9,NÃO ENTRAR,fallback_local,fallback,True,"📅 Sinal gerado em: 2025-10-31T15:26:54
+O modelo está apontando para **Islam Makhachev** contra **Arman Tsarukyan**, com probabilidade de vitória estimada em 50.0% para o lado indicado.
+Não há valor numérico claro: EV negativo (-0.05). A entrada só faria sentido por leitura técnica adicional (estilo, momento, matchup) que não está no modelo.
+Risco elevado: o modelo não encontrou margem suficiente. Pode ser luta equilibrada, com variáveis fora do CSV.
+Odd utilizada: 1.90 (casa: fallback_local, fonte: fallback)
+⚠ Esta análise usou probabilidade neutra (50/50) porque o modelo salvo estava em formato dicionário sem estimador válido. Trate como rascunho ou aguarde nova geração de sinais.
+📌 **Conclusão:** o modelo não recomenda aposta direta neste momento.
+
+Observação: análise baseada apenas nos dados disponíveis neste momento. Aspectos como camp recente, corte de peso, queda de rendimento e estilo específico devem ser adicionados quando o histórico de lutas estiver integrado."
+2025-10-31T15:26:59,2025-10-31T15:26:54,ALEX PEREIRA x JIRI PROCHAZKA,Alex Pereira,Jiri Prochazka,A,50.0,-0.05,1.9,1.9,1.9,NÃO ENTRAR,fallback_local,fallback,True,"📅 Sinal gerado em: 2025-10-31T15:26:54
+O modelo está apontando para **Alex Pereira** contra **Jiri Prochazka**, com probabilidade de vitória estimada em 50.0% para o lado indicado.
+Não há valor numérico claro: EV negativo (-0.05). A entrada só faria sentido por leitura técnica adicional (estilo, momento, matchup) que não está no modelo.
+Risco elevado: o modelo não encontrou margem suficiente. Pode ser luta equilibrada, com variáveis fora do CSV.
+Odd utilizada: 1.90 (casa: fallback_local, fonte: fallback)
+⚠ Esta análise usou probabilidade neutra (50/50) porque o modelo salvo estava em formato dicionário sem estimador válido. Trate como rascunho ou aguarde nova geração de sinais.
+📌 **Conclusão:** o modelo não recomenda aposta direta neste momento.
+
+Observação: análise baseada apenas nos dados disponíveis neste momento. Aspectos como camp recente, corte de peso, queda de rendimento e estilo específico devem ser adicionados quando o histórico de lutas estiver integrado."
+2025-10-31T15:26:59,2025-10-31T15:26:54,MACKENZIE DERN x AMANDA LEMOS,Mackenzie Dern,Amanda Lemos,A,50.0,-0.05,1.9,1.9,1.9,NÃO ENTRAR,fallback_local,fallback,True,"📅 Sinal gerado em: 2025-10-31T15:26:54
+O modelo está apontando para **Mackenzie Dern** contra **Amanda Lemos**, com probabilidade de vitória estimada em 50.0% para o lado indicado.
+Não há valor numérico claro: EV negativo (-0.05). A entrada só faria sentido por leitura técnica adicional (estilo, momento, matchup) que não está no modelo.
+Risco elevado: o modelo não encontrou margem suficiente. Pode ser luta equilibrada, com variáveis fora do CSV.
+Odd utilizada: 1.90 (casa: fallback_local, fonte: fallback)
+⚠ Esta análise usou probabilidade neutra (50/50) porque o modelo salvo estava em formato dicionário sem estimador válido. Trate como rascunho ou aguarde nova geração de sinais.
+📌 **Conclusão:** o modelo não recomenda aposta direta neste momento.
+
+Observação: análise baseada apenas nos dados disponíveis neste momento. Aspectos como camp recente, corte de peso, queda de rendimento e estilo específico devem ser adicionados quando o histórico de lutas estiver integrado."
